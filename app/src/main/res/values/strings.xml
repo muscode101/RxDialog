@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxDialogDemo</string>
+    <string name="publish">Publish</string>
+    <string name="rx_dialog">Rx Dialog</string>
+    <string name="open_dialog">Open Dialog</string>
+    <string name="open_fragment">open fragment</string>
+</resources>
